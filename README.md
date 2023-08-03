@@ -1,5 +1,4 @@
-# redeclipse-story
-The Story of Red Eclipse
+# The Story of Red Eclipse
 
 Long ago, in a distant galaxy, there existed a collection of planetary systems known as the Cinta System. At its center was a supermoon that shaded the red dwarf sun, a unique constellation that was known throughout the system due to the rarity of such large supermoons.
 
